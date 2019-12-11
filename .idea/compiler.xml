@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sofaboot-sample-standard-biz-service-impl" />
+        <module name="sofaboot-sample-standard-biz-shared" />
+        <module name="sofaboot-sample-standard-common-dal" />
+        <module name="sofaboot-sample-standard-common-service-facade" />
+        <module name="sofaboot-sample-standard-test" />
+        <module name="sofaboot-sample-standard-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sofaboot-sample-standard" target="1.5" />
+      <module name="sofaboot-sample-standard-biz-service-impl" target="1.5" />
+      <module name="sofaboot-sample-standard-biz-shared" target="1.5" />
+      <module name="sofaboot-sample-standard-common-dal" target="1.5" />
+      <module name="sofaboot-sample-standard-common-service-facade" target="1.5" />
+      <module name="sofaboot-sample-standard-test" target="1.5" />
+      <module name="sofaboot-sample-standard-web" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
